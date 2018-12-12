@@ -1,5 +1,5 @@
 # invasao extraterrestre
 JOGO DESENVOLVIDO EM PYTHON
-video do jogo
-https://www.youtube.com/watch?v=UvRheXfvwRY
+
+Acesse o video do jogo nesse link:https://www.youtube.com/watch?v=UvRheXfvwRY
 
