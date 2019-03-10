@@ -5,6 +5,7 @@ JOGO DESENVOLVIDO EM PYTHON
 
 Alunos:
 Rafael Rufino dos Santos
+
 Como jogar:
 Para jogar é necessário ter o Pyton instalado no computador.
 
