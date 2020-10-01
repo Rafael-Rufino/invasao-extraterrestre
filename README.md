@@ -8,7 +8,7 @@ Rafael Rufino dos Santos
 
 Como jogar:
 
-Para jogar é necessário ter o Pyton instalado no computador.
+Para jogar é necessário ter o Python instalado no computador.
 
 Instalação do Python no Windows:
 https://python.org.br/instalacao-windows/
